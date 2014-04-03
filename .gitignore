@@ -1,0 +1,12 @@
+[Tt]humbs.db
+*.DS_Store
+[Dd]esktop.ini
+~$*
+*~
+.svn
+*.sublime-project
+*.sublime-workspace
+.grunt
+tmp/
+logs/
+vendor/
